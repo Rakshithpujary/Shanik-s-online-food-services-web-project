@@ -38,7 +38,7 @@
 
 ### Adding/Delete/Reorder/Upadte Groceries
 <img src="https://github.com/Rakshithpujary/Shanik-s-online-food-services-web-project/assets/135818873/86bbd87d-490e-4b3e-84a5-04db4475d040" alt="Image Alt Text" style="width:1000px;" style="height:1000px;" />...
-<img src="https://github.com/Rakshithpujary/Shanik-s-online-food-services-web-project/assets/135818873/254a37ae-a258-4ae1-9b6d-241968330f56" alt="Image Alt Text" style="width:1000px;" style="height:1000px;" />
+<img src="https://github.com/Rakshithpujary/Shanik-s-online-food-services-web-project/assets/135818873/254a37ae-a258-4ae1-9b6d-241968330f56" alt="Image Alt Text" style="width:500px;" style="height:500px;" />
 
 ### Dashboard Page
 <img src="https://github.com/Rakshithpujary/Shanik-s-online-food-services-web-project/assets/135818873/7146c08b-f1a9-4181-9bc7-300e8fd291d8" alt="Image Alt Text" style="width:1000px;" style="height:1000px;" />
