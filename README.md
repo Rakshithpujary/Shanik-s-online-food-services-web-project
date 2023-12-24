@@ -1,4 +1,4 @@
 
 
 ## Registration
-<img src="https://github.com/Rakshithpujary/Shanik-s-online-food-services-web-project/assets/135818873/0881bc65-ac10-4e32-9eeb-ccf73318a797" alt="Image Alt Text" style="width:300px;" style="height:500px;" />
+<img src="https://github.com/Rakshithpujary/Shanik-s-online-food-services-web-project/assets/135818873/0881bc65-ac10-4e32-9eeb-ccf73318a797" alt="Image Alt Text" style="width:600px;" style="height:1000px;" />
