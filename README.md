@@ -13,6 +13,13 @@
 ### Cart Page
 <img src="https://github.com/Rakshithpujary/Shanik-s-online-food-services-web-project/assets/135818873/192ce1af-f884-4ae2-bf2f-53c047233eb1" alt="Image Alt Text" style="width:1000px;" style="height:1000px;" />
 
-
-### User Delivery Details 
+### User Delivery Info 
 <img src="https://github.com/Rakshithpujary/Shanik-s-online-food-services-web-project/assets/135818873/ebcf88c9-fcee-4ece-a787-e7d10ea30d61" alt="Image Alt Text" style="width:1000px;" style="height:1000px;" />
+
+### Order Page
+<img src="https://github.com/Rakshithpujary/Shanik-s-online-food-services-web-project/assets/135818873/ebcc39e6-8360-4e16-9842-66639fc2c90c" alt="Image Alt Text" style="width:1000px;" style="height:1000px;" />
+
+### User Bill
+<img src="https://github.com/Rakshithpujary/Shanik-s-online-food-services-web-project/assets/135818873/4c504678-68cd-4398-a81a-e04bf77c92d0" alt="Image Alt Text" style="width:1000px;" style="height:1000px;" />
+
+
