@@ -27,4 +27,23 @@
 ### login Page
 <img src="https://github.com/Rakshithpujary/Shanik-s-online-food-services-web-project/assets/135818873/212c4671-001c-4291-9b4c-a2fb201da61f" alt="Image Alt Text" style="width:1000px;" style="height:1000px;" />
 
+### Adding new products
+<img src="https://github.com/Rakshithpujary/Shanik-s-online-food-services-web-project/assets/135818873/86fb0bce-f309-4f5f-8a6d-c15ca99a26bb" alt="Image Alt Text" style="width:1000px;" style="height:1000px;" />
+
+### Updating Product info
+<img src="https://github.com/Rakshithpujary/Shanik-s-online-food-services-web-project/assets/135818873/4406af2e-271b-487b-92b4-43b312854217" alt="Image Alt Text" style="width:1000px;" style="height:1000px;" />
+
+### Customer Orders
+<img src="https://github.com/Rakshithpujary/Shanik-s-online-food-services-web-project/assets/135818873/c64ca126-7f57-4c82-ba75-0e69e35c11e1" alt="Image Alt Text" style="width:1000px;" style="height:1000px;" />
+
+### Adding/Delete/Reorder/Upadte Groceries
+<img src="https://github.com/Rakshithpujary/Shanik-s-online-food-services-web-project/assets/135818873/86bbd87d-490e-4b3e-84a5-04db4475d040" alt="Image Alt Text" style="width:1000px;" style="height:1000px;" />...
+<img src="https://github.com/Rakshithpujary/Shanik-s-online-food-services-web-project/assets/135818873/254a37ae-a258-4ae1-9b6d-241968330f56" alt="Image Alt Text" style="width:1000px;" style="height:1000px;" />
+
+### Dashboard Page
+<img src="https://github.com/Rakshithpujary/Shanik-s-online-food-services-web-project/assets/135818873/7146c08b-f1a9-4181-9bc7-300e8fd291d8" alt="Image Alt Text" style="width:1000px;" style="height:1000px;" />
+
+
+
+
 
